@@ -1,0 +1,10 @@
+/home/aashi-kumari/container-os/tini/CMakeFiles/tini.dir
+/home/aashi-kumari/container-os/tini/CMakeFiles/tini-static.dir
+/home/aashi-kumari/container-os/tini/CMakeFiles/package.dir
+/home/aashi-kumari/container-os/tini/CMakeFiles/package_source.dir
+/home/aashi-kumari/container-os/tini/CMakeFiles/edit_cache.dir
+/home/aashi-kumari/container-os/tini/CMakeFiles/rebuild_cache.dir
+/home/aashi-kumari/container-os/tini/CMakeFiles/list_install_components.dir
+/home/aashi-kumari/container-os/tini/CMakeFiles/install.dir
+/home/aashi-kumari/container-os/tini/CMakeFiles/install/local.dir
+/home/aashi-kumari/container-os/tini/CMakeFiles/install/strip.dir
